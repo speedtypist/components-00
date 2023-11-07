@@ -1,6 +1,9 @@
 @import url(../CSS/reset.css);
 @import url(../CSS/Utiles.css);
 
+body{
+	background-color: rgb(138, 134, 134);
+}
 .row-2 {
     background: url(../IMG/deafults/bookcase-img.jpg.jpg) center no-repeat;
     background-size: cover;

@@ -2,8 +2,8 @@ export default function books() {
   return [
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61tqfa+xbWL._AC_UL226_SR226,226_.jpg",
-      name: "Verity",
+        "https://rukminim2.flixcart.com/image/850/1000/xif0q/graphics-card/h/8/9/rtx-3060-gaming-oc-12gb-lhr-graphics-card-rev-2-0-gv-n3060gaming-original-imaghs6rhgw8hszw.jpeg?q=90",
+      name: "",
       price: "11.26",
       date: 1,
       deal: false,
@@ -21,7 +21,7 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/71PNGYHykrL._AC_UL226_SR226,226_.jpg",
+        "https://shoptheworld.in/p/b0946hcvj9-hp-omen-25l-gaming-desktop-pc-rtx-2060-super-graphics-card-intel-core-i7-10700f-processor-16gb-ram-512gb-ssd-windows-10-home-w-tivdio-accessor?gclid=CjwKCAiA3aeqBhBzEiwAxFiOBm4PPGj1x9YgLTx1FjY1AYyIda4orkcyAhATV1-83KJ3axjaAqdmJxoCc1EQAvD_BwE",
       name: "It Starts with Us: A Novel(2)",
       price: "12.99",
       date: 2,
