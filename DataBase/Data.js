@@ -2,12 +2,12 @@ export default function books() {
   return [
     {
       cover:
-        "https://rukminim2.flixcart.com/image/850/1000/xif0q/graphics-card/h/8/9/rtx-3060-gaming-oc-12gb-lhr-graphics-card-rev-2-0-gv-n3060gaming-original-imaghs6rhgw8hszw.jpeg?q=90",
-      name: "",
+        "https://m.media-amazon.com/images/I/71hKMkVHYfL._SL1500_.jpg",
+      name: "RTX 3050",
       price: "11.26",
       date: 1,
       deal: false,
-      categorie: ["novel", "philosophy"],
+      categorie: ["GPU",],
       gone:false,
 
       rating: 3.5,
@@ -21,12 +21,12 @@ export default function books() {
     },
     {
       cover:
-        "https://shoptheworld.in/p/b0946hcvj9-hp-omen-25l-gaming-desktop-pc-rtx-2060-super-graphics-card-intel-core-i7-10700f-processor-16gb-ram-512gb-ssd-windows-10-home-w-tivdio-accessor?gclid=CjwKCAiA3aeqBhBzEiwAxFiOBm4PPGj1x9YgLTx1FjY1AYyIda4orkcyAhATV1-83KJ3axjaAqdmJxoCc1EQAvD_BwE",
-      name: "It Starts with Us: A Novel(2)",
+        "https://m.media-amazon.com/images/I/71qOLn5UsaS._SL1500_.jpg",
+      name: "RTX 3060",
       price: "12.99",
       date: 2,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4,
@@ -40,12 +40,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/71j0FLAauxL._AC_UL226_SR226,226_.jpg",
-      name: "It Ends with Us: A Novel (1)",
+        "	https://m.media-amazon.com/images/I/71N7BLpLAhL._SL1500_.jpg",
+      name: "RTX 4060",
       price: "10.26",
       date: 3,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4.5,
@@ -59,12 +59,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61QR7qoEYVL._AC_UL226_SR226,226_.jpg",
-      name: "Ugly Love: A Novel",
+        "https://m.media-amazon.com/images/I/71Z9svUyd2L._SL1500_.jpg",
+      name: "RTX 4080",
       price: "10.40",
       date: 4,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4.5,
@@ -78,12 +78,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/81PMOtoT7zL._AC_UL226_SR226,226_.jpg",
-      name: "Fairy Tale",
+        "	https://m.media-amazon.com/images/I/71Bi6UsIoIL._SL1500_.jpg",
+      name: "RTX 4090",
       price: "20.87",
       date: 5,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4.5,
@@ -97,12 +97,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/617uZq23IPL._AC_UL226_SR226,226_.jpg",
-      name: "Reminders of Him: A Novel",
+        "https://m.media-amazon.com/images/I/71TxeMiYJSL._SL1500_.jpg",
+      name: "i5 11gen",
       price: "9.57",
       date: 6,
       deal: false,
-      categorie: ["novel", "philosophy"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 4.5,
@@ -116,12 +116,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/714l-Ja-VAL._AC_UL226_SR226,226_.jpg",
-      name: "I'm Glad My Mom Died",
+        "https://m.media-amazon.com/images/I/51D+aC--oXL._SL1500_.jpg	",
+      name: "i5 12gen",
       price: "18.70",
       date: 7,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 5,
@@ -135,12 +135,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/81O1oy0y9eL._AC_UL226_SR226,226_.jpg",
-      name: "Where the Crawdads Sing",
+        "	https://m.media-amazon.com/images/I/71idAEIDhvL._SL1500_.jpg",
+      name: "i7 11gen",
       price: "9.98",
       date: 8,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 5,
@@ -154,12 +154,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL._AC_UL226_SR226,226_.jpg",
-      name: "Atomic Habits",
+        "https://m.media-amazon.com/images/I/519GxbtTwrL._SL1500_.jpg",
+      name: "i7 12gen",
       price: "11.98",
       date: 9,
       deal: false,
-      categorie: ["self-dev"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 5,
@@ -173,12 +173,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/71cTtxm0p0L._AC_UL226_SR226,226_.jpg",
-      name: "Solito: A Memoir",
+        "	https://m.media-amazon.com/images/I/71diouNMRHL._SL1500_.jpg",
+      name: "i9-11900K",
       price: "21.12",
       date: 10,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 4.5,
@@ -192,12 +192,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61xkvfPVupL._AC_UL226_SR226,226_.jpg",
-      name: "November 9: A Novel",
+        "https://m.media-amazon.com/images/I/51f2hkWjTlL._SL1200_.jpg",
+      name: "AMD-5600H",
       price: "11.44",
       date: 11,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 4.5,
@@ -211,12 +211,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61NdJMwAThS._AC_UL226_SR226,226_.jpg",
-      name: "The Body Keeps the Score",
+        "https://m.media-amazon.com/images/I/51myLcDfemL._SL1500_.jpg",
+      name: "AMD Ryzen Threadripper Pro ",
       price: "11.40",
       date: 12,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["CPU"],
       gone:false,
 
       rating: 5,
@@ -230,12 +230,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/91cqEsyjd-L._AC_UL226_SR226,226_.jpg",
-      name: "The Very Hungry Caterpillar",
+        "https://m.media-amazon.com/images/I/81ytSSLcU+L._SL1500_.jpg",
+      name: "Galax (Rev-06W)",
       price: "4.30",
       date: 13,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 5,
@@ -249,12 +249,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/81spBNattuL._AC_UL226_SR226,226_.jpg",
-      name: "Dinner in One",
+        "	https://m.media-amazon.com/images/I/610w5MjeqJL._SL1280_.jpg",
+      name: "CHIPTRONEX Z910",
       price: "24.99",
       date: 14,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 3.5,
@@ -268,12 +268,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/61uiYWcEQGL._AC_UL226_SR226,226_.jpg",
-      name: "The Return of the Gods",
+        "	https://m.media-amazon.com/images/I/81a5m1oX6eL._SL1500_.jpg",
+      name: "GALAX PC Case ",
       price: "18.29",
       date: 15,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 4.5,
@@ -287,12 +287,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL._AC_UL226_SR226,226_.jpg",
-      name: "The 48 Laws of Power",
+        "https://m.media-amazon.com/images/I/91NdHow9R0L._SL1500_.jpg",
+      name: "Ant Esports ICE",
       price: "11.60",
       date: 16,
       deal: false,
-      categorie: ["self-dev", "philosophy"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 4.5,
@@ -306,12 +306,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/81hHy5XrdKL._AC_UL226_SR226,226_.jpg",
-      name: "The Four Agreements",
+        "	https://m.media-amazon.com/images/I/71VcQzeNGVL._SL1500_.jpg",
+      name: "Antec DF600 Flux ",
       price: "7.74",
       date: 17,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 4.5,
@@ -325,12 +325,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81XQ1+piiiL._AC_UL226_SR226,226_.jpg",
-      name: "All Good People Here: A Novel",
+        "https://m.media-amazon.com/images/I/61Is9PG4ChL._SL1000_.jpg",
+      name: "Ant Esports ICE-511MT",
       price: "18.51",
       date: 18,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 4.5,
@@ -344,12 +344,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/8144Vic9C5L._AC_UL226_SR226,226_.jpg",
-      name: "I Love You to the Moon and Back",
+        "	https://m.media-amazon.com/images/I/51+uQSsRi+L._SL1080_.jpg",
+      name: "ENTWINO Warrior",
       price: "4.31",
       date: 19,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Cabinets"],
       gone:false,
 
       rating: 5,
@@ -363,12 +363,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/91Iuhbh7aIL._AC_UL226_SR226,226_.jpg",
-      name: "The Final Gambit ",
+        "	https://m.media-amazon.com/images/I/811elTxHkaL._SL1500_.jpg",
+      name: "XPG ADATA GAMMIX ",
       price: "14.11",
       date: 20,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 4.5,
@@ -382,12 +382,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/81EVdWdmOKL._AC_UL226_SR226,226_.jpg",
-      name: "Brown Bear, Brown Bear, What Do You See?",
+        "	https://m.media-amazon.com/images/I/51tPG4QE-LL._SL1500_.jpg",
+      name: "Corsair Vengeance LPX ",
       price: "4.55",
       date: 21,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -401,12 +401,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81qROMFiwmL._AC_UL226_SR226,226_.jpg",
-      name: "Little Blue Truck's Halloween",
+        "https://m.media-amazon.com/images/I/51N3dHENvOL._SL1000_.jpg",
+      name: "TEAMGROUP T-Force Delta",
       price: "6.32",
       date: 22,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -420,12 +420,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/61kPERVIR4L._AC_UL226_SR226,226_.jpg",
-      name: "Confess: A Novel",
+        "	https://m.media-amazon.com/images/I/51zVuCpIOEL._SL1000_.jpg",
+      name: "TEAMGROUP T-Force Delta",
       price: "11.43",
       date: 23,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 4.5,
@@ -439,12 +439,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61Bdp7XZhDL._AC_UL226_SR226,226_.jpg",
-      name: "The Silent Patient",
+        "https://m.media-amazon.com/images/I/41W2pzZxbHL._SL1024_.jpg",
+      name: "TeamGroup T-Force Vulcan Z",
       price: "11.91",
       date: 24,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 4.5,
@@ -458,12 +458,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/91Yy9b1PseL._AC_UL226_SR226,226_.jpg",
-      name: "Danielle Walker's Healthy in a Hurry",
+        "	https://m.media-amazon.com/images/I/71ccaPFm61L._SL1500_.jpg",
+      name: "XPG ADATA SPECTRIX ",
       price: "24.99",
       date: 25,
       deal: false,
-      categorie: ["self-dev"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -477,12 +477,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/61clZgj1xZL._AC_UL226_SR226,226_.jpg",
-      name: "The Great Reset",
+        "https://m.media-amazon.com/images/I/61eWHqJJX2L._SL1000_.jpg",
+      name: " G.SKILL Trident Z",
       price: "22.75",
       date: 26,
       deal: false,
-      categorie: ["self-dev", "philosophy"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -496,12 +496,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81I2+bgGMTL._AC_UL226_SR226,226_.jpg",
-      name: "Battle for the American Mind",
+        "https://m.media-amazon.com/images/I/61ShpPYd-7L._SL1500_.jpg",
+      name: "OLOy DDR4 RAM ",
       price: "17.99",
       date: 27,
       deal: false,
-      categorie: ["self-dev"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -515,12 +515,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81xT2mdyL7L._AC_UL226_SR226,226_.jpg",
-      name: "I Love You Like No Otter",
+        "https://m.media-amazon.com/images/I/61l26eSN4OL._SL1500_.jpg",
+      name: "Kingston Fury Beast RGB",
       price: "5.37",
       date: 28,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 5,
@@ -534,12 +534,12 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/71lwvQIGI8L._AC_UL226_SR226,226_.jpg",
-      name: "The Return",
+        "	https://m.media-amazon.com/images/I/61OyBIH+eEL._SL1500_.jpg",
+      name: "Corsair Dominator Platinum",
       price: "17.38",
       date: 29,
       deal: false,
-      categorie: ["self-devl"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 4.5,
@@ -553,12 +553,12 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/81823bTjKHL._AC_UL226_SR226,226_.jpg",
-      name: "The Last Thing He Told Me: A Novel",
+        "https://m.media-amazon.com/images/I/71oz85Vv6mL._SL1500_.jpg",
+      name: "Crucial RAM 32GB",
       price: "13.09",
       date: 30,
       deal: false,
-      categorie: ["novel"],
+      categorie: ["Ram"],
       gone:false,
 
       rating: 4.5,
@@ -572,13 +572,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/51U0RLLU7vS._AC_UF226,226_FMjpg_.jpg",
-      name: "The Art of War",
+        "https://m.media-amazon.com/images/I/61shsB-l2UL._SL1000_.jpg",
+      name: "MSI B450M Pro-Vdh",
       price: "13.58",
       date: 31,
       deal: true,
       lastPrice: "$16.99",
-      categorie: ["novel", "philosophy"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -592,13 +592,13 @@ export default function books() {
     },
     {
       cover:
-        "	https://m.media-amazon.com/images/I/51lhjx1Qw3L._AC_UF226,226_FMjpg_.jpg",
-      name: "Behave: The Biology of Humans",
+        "	https://m.media-amazon.com/images/I/71LwU6qgv2L._SL1200_.jpg",
+      name: "MSI B450 Gaming",
       price: "15.87",
       date: 32,
       deal: true,
       lastPrice: "$18.09",
-      categorie: ["self-dev", "philosophy"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -612,13 +612,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/41Byw-nqa3L._AC_UF226,226_FMjpg_.jpg",
-      name: "The 21 Irrefutable Laws of Leadership",
+        "https://m.media-amazon.com/images/I/71nrZiJO0hL._SL1500_.jpg",
+      name: "Ant Value H61MAD3-N mATX",
       price: "21.49",
       date: 33,
       deal: true,
       lastPrice: "$18.49",
-      categorie: ["self-dev"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -632,13 +632,13 @@ export default function books() {
     },
     {
       cover:
-        "	https://m.media-amazon.com/images/I/51lIUQSVCsL._AC_UF226,226_FMjpg_.jpg",
-      name: "X-Men Omnibus",
+        "https://m.media-amazon.com/images/I/810O4HdawGL._SL1500_.jpg",
+      name: "ASUS ROG Strix Z690",
       price: "34.99",
       date: 34,
       deal: true,
       lastPrice: "$48.16",
-      categorie: ["novel"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -652,13 +652,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/41S21miKn1S._AC_UF226,226_FMjpg_.jpg",
-      name: "Close Your Eyes, Sleep",
+        "https://m.media-amazon.com/images/I/81DFmg2k7cL._SL1500_.jpg",
+      name: "Asus B550 ROG Strix B550-F Gaming",
       price: "13.59",
       date: 35,
       deal: true,
       lastPrice: "$34.40",
-      categorie: ["novel"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 3.5,
@@ -672,13 +672,13 @@ export default function books() {
     },
     {
       cover:
-        "	https://images-na.ssl-images-amazon.com/images/I/51CCYukH2nL._AC_SR226,226_.jpg",
-      name: "JoJo's Bizarre Adventure",
+        "https://m.media-amazon.com/images/I/81ppj4prMjL._SL1500_.jpg",
+      name: "GIGABYTE Z790 AORUS",
       price: "15.30",
       date: 36,
       deal: true,
       lastPrice: "$19.61",
-      categorie: ["novel"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 5,
@@ -692,13 +692,13 @@ export default function books() {
     },
     {
       cover:
-        "https://images-na.ssl-images-amazon.com/images/I/41ovZVriMRL._AC_SR226,226_.jpg",
-      name: "Marx for Beginners",
+        "https://m.media-amazon.com/images/I/81ogi-krqkL._SL1500_.jpg",
+      name: "ASUS TUF Gaming B650-PLUS",
       price: "14.50",
       date: 37,
       deal: true,
       lastPrice: "$17.00",
-      categorie: ["self-dev", "philosophy"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -712,13 +712,13 @@ export default function books() {
     },
     {
       cover:
-        "	https://m.media-amazon.com/images/I/51hIRYMlt6L._AC_UF226,226_FMjpg_.jpg",
-      name: "The System",
+        "https://m.media-amazon.com/images/I/81Ni+xrVXeL._SL1500_.jpg",
+      name: "ASUS Prime B450M-A",
       price: "11.99",
       date: 38,
       deal: true,
       lastPrice: "$13.01",
-      categorie: ["novel"],
+      categorie: ["Mother Boards"],
       gone:false,
 
       rating: 4.5,
@@ -732,13 +732,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/51phGHo7TmL._AC_UF226,226_FMjpg_.jpg",
-      name: "Reluctantly Home",
+        "https://m.media-amazon.com/images/I/71L0p7ALaQL._SL1500_.jpg",
+      name: "Sapphire Pulse AMD Radeon",
       price: "10.99",
       date: 39,
       deal: true,
       lastPrice: "$14.99",
-      categorie: ["self-dev"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4.5,
@@ -752,13 +752,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/51Fd-5fMDOL._AC_UF226,226_FMjpg_.jpg",
-      name: "The Recipe for Hope",
+        "https://m.media-amazon.com/images/I/81IMZEj571S._SL1500_.jpg",
+      name: "MSI Radeon RX 6900 XT",
       price: "14.99",
       date: 40,
       deal: true,
       lastPrice: "$14.99",
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4.5,
@@ -772,13 +772,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/41x3-s3mZFL._AC_UF226,226_FMjpg_.jpg",
-      name: "Doctor Ice Pick",
+        "https://m.media-amazon.com/images/I/81ARbLrL6bS._SL1500_.jpg",
+      name: "PowerColor Hellhound Spectral",
       price: "5.49",
       date: 41,
       deal: true,
       lastPrice: "$9.49",
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4,
@@ -792,13 +792,13 @@ export default function books() {
     },
     {
       cover:
-        "https://m.media-amazon.com/images/I/51wssaiGMIL._AC_UF226,226_FMjpg_.jpg",
-      name: "Layla",
+        "https://m.media-amazon.com/images/I/616VM20+AzL._SL1384_.jpg",
+      name: "AMD 5000 Series Ryzen 9",
       price: "8.97",
       date: 42,
       deal: true,
       lastPrice: "$14.99",
-      categorie: ["novel"],
+      categorie: ["GPU"],
       gone:false,
 
       rating: 4,
